@@ -1,0 +1,2 @@
+#!/bin/bash
+mv bwtty /tmp/my_first_directory
